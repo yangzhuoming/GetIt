@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">格一</string>
+    <string name="app_name_en">GetIt</string>
+
+    <!-- LaunchFragment -->
+    <string name="connect_to_server_failed">连接服务器失败：</string>
+
+    <!-- fragment_sign_in.xml -->
+    <string name="sign_in">登录</string>
+    <string name="still_had_no_account">还没有账户?注册</string>
+    <string name="account_name_cant_be_empty">账户名不能为空</string>
+    <string name="password_cant_be_empty">密码不能为空</string>
+    <string name="forget_password">忘记密码?</string>
+    <string name="third_part_sign_in">第三方登录</string>
+
+    <!-- SignInFragment -->
+    <string name="sign_in_ing_please_wait">正在登录中，请稍后~</string>
+    <string name="sorry_account_not_exist">抱歉，账户不存在</string>
+    <string name="INTERNAL_SERVER_ERROR">登录失败次数超过限制，请稍后再试，或者通过忘记密码重设密码</string>
+    <string name="USERNAME_PASSWORD_MISMATCH">抱歉，密码不正确，请重新输入</string>
+    <string name="sign_in_success">登录成功</string>
+    <string name="name_and_pwd_cant_be_empty">用户名或密码，不能为空！</string>
+
+    <!-- fragment_sign_up.xml -->
+    <string name="sign_up">注册</string>
+    <string name="user_name_hint">请输入用户名</string>
+    <string name="phone_hint">请输入手机号</string>
+    <string name="password_hint">请输入6~18位数字或字母</string>
+    <string name="password_confirm_hint">确认密码</string>
+    <string name="user_protocol">用户协议</string>
+    <string name="had_account_return">已有账户？返回登录</string>
+
+    <!-- SignUpFragment -->
+    <string name="sign_up_success">注册成功</string>
+    <string name="sign_up_failed">注册失败</string>
+    <string name="pwd_not_match">密码不匹配</string>
+    <string name="sign_in_failed">登录失败</string>
+    <string name="phone_name_and_pwd_cant_be_empty">手机号、用户名或密码，不能为空！</string>
+    <string name="phone_format_is_wrong">手机格式不正确呦~</string>
+
+    <!-- fragment_user_info.xml -->
+    <string name="personal_signature">个性签名</string>
+    <string name="personal_signature_hint">请输入您的个性签名</string>
+    <string name="save">保存</string>
+    <string name="unknown">未知</string>
+    <string name="friend_circle">朋友圈</string>
+
+</resources>
